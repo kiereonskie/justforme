@@ -185,7 +185,7 @@ a:active{
 color: black;
 }
 nav{
-	background-color: #6a0dad;
+	background: linear-gradient(to right, #6a0dad, #ff7e5f);
 	border-top: 2px darkpurple solid;
 	border-bottom: 2px darkpurple solid;
 	padding: 5px;
